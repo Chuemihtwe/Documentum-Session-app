@@ -30,3 +30,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### VS Code ###
+.vscode/
+mvnw.cmd
+mvnw
+logs/
+
+*.log
